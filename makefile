@@ -5,9 +5,6 @@ diary.class: diary.java
 UniEvent.class: UniEvent.java
 	javac UniEvent.java
 
-ISchedule.class: ISchedule.java
-	javac ISchedule.java
-
 LecutureEvent.class: LectureEvent.java
 	javac LectureEvent.java
 
